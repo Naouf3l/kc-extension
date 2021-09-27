@@ -1,5 +1,6 @@
 package org.nel.ab.controller;
 
+import org.keycloak.models.RealmModel;
 import org.nel.ab.dto.DeviceDto;
 import org.nel.ab.spi.DeviceService;
 import org.keycloak.models.KeycloakSession;
